@@ -1,2 +1,4 @@
-# University-HR-Analytics
-An end-to-end data analytics project exploring salary distribution, staff demographics and departmental patterns in a university system, with insights into academic and non-academic workforce trends.
+# University Staff Salary & Workforce Analytics
+##🧾 Overview
+This project analyzes university staff data to uncover insights into salary distribution, workforce structure, and research output across academic and non-academic departments.
+Data was extracted from a raw document, analyzed in Power BI, and presented with actionable insights.
