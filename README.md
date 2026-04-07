@@ -12,7 +12,7 @@ Data was extracted from a raw document, analyzed in Power BI, and presented with
 1. Microsoft Word
 2. Power BI
 ## 📈 Dashboard
-![Dashboard_preview](Images/Dashboard_Screenshot.png)
+![Dashboard_preview](Images/Dashboard_preview.png)
 ## 💡 Insights
 Salary is heavily concentrated among academic staff
 A few departments dominate in both staff size and salary allocation
