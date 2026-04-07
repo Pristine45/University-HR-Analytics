@@ -11,3 +11,12 @@ Data was extracted from a raw document, analyzed in Power BI, and presented with
 ## 🛠️ Tools
 1. Microsoft Word
 2. Power BI
+## 📈 Dashboard
+## 💡 Insights
+Salary is heavily concentrated among academic staff
+A few departments dominate in both staff size and salary allocation
+Research output is uneven across departments
+Age distribution highlights workforce planning needs
+## 📌 Conclusion
+This project highlights how data can support better workforce planning, salary structuring, and strategic decision-making in university management.
+
