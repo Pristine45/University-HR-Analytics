@@ -9,5 +9,5 @@ Data was extracted from a raw document, analyzed in Power BI, and presented with
 4. Top 5 Departments by Salary
 5. Age Distribution of Staff
 ## 🛠️ Tools
-1 Microsoft Word
-2 Power BI
+1. Microsoft Word
+2. Power BI
